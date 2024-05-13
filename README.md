@@ -10,19 +10,20 @@ insights from meetings and enhance productivity.
 
 Introduction:
 
-In today's digital landscape, Natural Language Processing (NLP) has emerged as a transformative technology, enabling machines to understand and interact with human language. Our project, titled "Intelligent Question-Answering Chatbot," harnesses the power of NLP to develop a sophisticated conversational agent capable of answering user questions in real-time. By leveraging state-of-the-art NLP models and techniques, our chatbot aims to provide accurate and insightful responses across a wide range of topics and domains.
+In today's digital landscape, Natural Language Processing (NLP) has emerged as a transformative technology, enabling machines to understand and interact with human language. 
+"Intelligent Question-Answering Chatbot," harnesses the power of NLP to develop a sophisticated conversational agent capable of answering user questions in real-time. By leveraging state-of-the-art NLP models and techniques,  chatbot aims to provide accurate and insightful responses across a wide range of topics and domains.
 
 Objective:
 
-The primary objective of our project is to design and implement a robust question-answering chatbot using NLP. Key goals include:
+The primary objective is to design and implement a robust question-answering chatbot using NLP. Key goals include:
 
 Developing an efficient NLP pipeline for processing user queries and extracting relevant information.
 Integrating advanced NLP models, such as BERT or GPT, to understand context and generate accurate responses.
 Building a user-friendly interface for seamless interaction with the chatbot.
 Evaluating the performance of the chatbot in terms of accuracy, response time, and user satisfaction.
-Approach:
 
-This approach involves several phases, including data collection, model selection, development, and evaluation. We will begin by gathering a diverse dataset of questions and answers across different domains. Next, we will explore and select appropriate NLP models based on their performance and suitability for the task. We will then develop the chatbot using modern software engineering principles, ensuring scalability, reliability, and maintainability. Finally, we will conduct thorough evaluations to assess the chatbot's performance and iterate on our approach as needed.
+Approach:
+This approach involves several phases, including data collection, model selection, development, and evaluation.This project is began by gathering a diverse dataset of questions and answers across different domains. Next explore and select appropriate NLP models based on their performance and suitability for the task, then develop the chatbot using modern software engineering principles, ensuring scalability, reliability, and maintainability. Finally, conduct thorough evaluations to assess the chatbot's performance and iterate on the approach as needed.
 
 Expected Outcomes:
 
